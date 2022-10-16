@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashrafkhan/MLflow-01/mlruns/0/e6d1aeda88d04d52b756023af6a3a13a/artifacts
+end_time: 1665883778080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e6d1aeda88d04d52b756023af6a3a13a
+run_uuid: e6d1aeda88d04d52b756023af6a3a13a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665883778072
+status: 3
+tags: []
+user_id: ashrafkhan
