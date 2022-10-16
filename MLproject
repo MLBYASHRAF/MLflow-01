@@ -1,0 +1,10 @@
+name : sample demo
+
+conda_env :conda_yaml
+
+entry_points:
+   main:
+      parameters:
+         parm1:{type:int,default:2}
+         parm2:{type:int,default:5} 
+      command:"python demo.py -p1{param1} -p2{param2}  
